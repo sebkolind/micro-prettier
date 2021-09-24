@@ -1,6 +1,6 @@
 [{
   "Name": "prettier",
-  "Description": "A plugin enabling Prettier",
+  "Description": "A Prettier plugin",
   "Website": "https://github.com/sebkolind/micro-prettier",
   "Tags": ["formatting", "prettier"],
   "Versions": [
